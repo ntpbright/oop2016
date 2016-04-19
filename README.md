@@ -1,4 +1,4 @@
-# Topics in Objecvt-Oriented Programming
+# Topics in Object-Oriented Programming
 
 ## Graphics using Swing
 
