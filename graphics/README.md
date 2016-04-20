@@ -7,14 +7,14 @@ You should know how to:
 * know how to set properties of components
 * add *Event Listeners* and handle events from components. Event Listeners can validate the values they receive, but don't implement much of the "logic" of your application.  Instead, they should invoke method of other classes.  This is based on the *Single Responsibility Principle* and using a *Layered Design*.
 
-## Slides in this Folder
+## Files in this Folder
 
 * Graphics-1 - basics of Java's graphics.
 * Graphics-2-Layouts - overview of the layout managers
 * Graphics-3-Event-Handling - how to use event listeners to receive event notificaion
 * Graphics-4-Actions (optional) - using Action objects as alternative to event listeners
-* Graphics-5-JOptionPane - using JOptionPane for simple pop-up dialogs
-* Practice-xxx  - some practice exercises
+* Graphics-5-JOptionPane - how to create simple pop-up dialogs using JOptionPane
+* Practice-xxx  - some questions and practice exercises
 
 ## Where to Learn More
 
