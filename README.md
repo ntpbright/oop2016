@@ -9,6 +9,26 @@ Students may also be interested in JavaFX, where component-based interfaces are 
 JavaFX is included with the Java SDK. To visually create user interfaces, also download the
 SceneBuilder application.
 
+## Design Patterns
+
+Design Patterns describe useful solutions to common design problems. We will learn how to
+identify situations where a design pattern can help, and some of the most common patterns.
+Every pattern has an associated *Context*, *Motivation* or "forces" involved,
+*Applicability*, and, of course, *Solution* (the design itself). 
+
+## Course TAs
+
+* Natpapas Kraiwichchanaporn (Fahrung) frfahrung95@gmail.com
+* Tunchanok Ngamsaowaros (Pan) pan_tunchanok@hotmail.com
+* Kanyakorn Jewmaidang (Pun) punzjang@hotmai.com
+* Orphitcha Lertpringkop (Aim) aimpitcha@gmail.com
+* Khochapak Sunsaksawat (Nap) khochapak@gmail.com
+* Chawin Kasikitpongpan (Ball) ballpor98@gmail.com
+
+Senior SKEs offering additional feedback on code and program design:
+
+* Sarun
+* Atit
 
 ## References
 
