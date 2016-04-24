@@ -20,15 +20,15 @@ Every pattern has an associated *Context*, *Motivation* or "forces" involved,
 
 * Natpapas Kraiwichchanaporn (Fahrung) frfahrung95@gmail.com
 * Tunchanok Ngamsaowaros (Pan) pan_tunchanok@hotmail.com
-* Kanyakorn Jewmaidang (Pun) punzjang@hotmai.com
+* Kanyakorn Jewmaidang (Pun) punzjang@hotmail.com
 * Orphitcha Lertpringkop (Aim) aimpitcha@gmail.com
 * Khochapak Sunsaksawat (Nap) khochapak@gmail.com
 * Chawin Kasikitpongpan (Ball) ballpor98@gmail.com
 
 Senior SKEs offering additional feedback on code and program design:
 
-* Sarun
-* Atit
+* Sarun (Map) mapfaps@gmail.com
+* Atit (Grief) grief.d.lament@gmail.com
 
 ## References
 
