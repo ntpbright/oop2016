@@ -1,9 +1,11 @@
 # Design Patterns
 
-*Design Patterns* are "reusable" designs for a particular situation.  Each pattern consists of:
+*Design Patterns* are "reusable" designs for a common problems. Each pattern consists of:
+
 * Context - a situation where a design solution is needed
 * Forces (or Motivation) - motivation or "needs" of the situation
 * Solution - the design that solves the problem
+* Applicability - when the pattern applies.  There may be many solutions to a particular context; the applicability can help.
 * Consequences - good and back effects of this solution
 * Example - each pattern has at least one example of its use
 
